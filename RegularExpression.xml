@@ -1,0 +1,10 @@
+<test name="Test1">
+  <groups>
+    <run>
+      <include name="windows.*"/>
+    </run>
+  </groups>
+  <classes>
+    <class name="RegularExpressionDemo"/>
+  </classes>
+</test>

@@ -1,0 +1,12 @@
+<suite name="Suite">
+<groups>
+<run>
+<exclude name ="Smoke"/>
+</run>
+</groups>
+  <test name="Test">
+    <classes>
+      <class name="com.class03.NewtoursExample"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
